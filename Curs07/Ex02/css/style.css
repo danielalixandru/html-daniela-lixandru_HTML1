@@ -41,3 +41,8 @@ b .even {
 a [href^="http://"] {
   color: red;
 }
+
+a [href$=".com/"] {
+  color: black;
+  text-decoration: underline;
+}
