@@ -21,3 +21,18 @@ body {
 .box-3 {
   background-color: bisque;
 }
+
+.box-1 {
+  border-color: #30e930;
+  color:#630063
+}
+
+.box-2 {
+  border-color: #808080;
+  color: #ffffff;
+}
+
+.box-3 {
+  border-color: #0000ff;
+  color: #ff0000;
+}
